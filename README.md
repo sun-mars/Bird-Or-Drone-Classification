@@ -25,11 +25,11 @@ This project aims to develop a machine learning model that can accurately differ
 
 ## Project Structure
 
-- `data/`: Directory containing image datasets (train, validation, test)
-- `models/`: Directory containing model architecture definitions
-- `train.py`: Script to train the CNN model
-- `evaluate.py`: Script to evaluate model performance
-- `utils.py`: Utility functions for data preprocessing and visualization
+- `data/`: Directory containing image datasets (train, validation, test), It contains three sub folders.
+- `data/train`:It contains multiple images of birds and drone(pre classified) to train the machine learning model.
+- `data/Validation`:It contains some sample classified images to validate the model.
+- `data/test`:It contains sample images to test the machine learning model.
+- `bird or drone classification.ipynb`: CNN code to make the ML model and train and test it.This is the main code written in python.
 
 ## Getting Started
 
