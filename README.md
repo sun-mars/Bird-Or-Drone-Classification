@@ -26,9 +26,9 @@ This project aims to develop a machine learning model that can accurately differ
 ## Project Structure
 
 - `data/`: Directory containing image datasets (train, validation, test), It contains three sub folders.
-- `data/train`:It contains multiple images of birds and drone(pre classified) to train the machine learning model.
-- `data/Validation`:It contains some sample classified images to validate the model.
-- `data/test`:It contains sample images to test the machine learning model.
+- `data/train`:It contains multiple images of birds and drone(pre classified) to train the machine learning model.This file was too big to be directly uploaded to github. So, I am attachine uploading this file and attaching the link [here](https://drive.google.com/drive/folders/1cWrShKLJzhk2S8dUKk0hGw2mk4aM7vBn?usp=sharing).
+- `Validation`:This zip file contains some sample classified images to validate the model.
+- `test`:This zip file contains sample images to test the machine learning model.
 - `bird or drone classification.ipynb`: CNN code to make the ML model and train and test it.This is the main code written in python.
 
 ## Getting Started
